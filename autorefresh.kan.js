@@ -8,8 +8,8 @@
 // @match        http://eip.gmcc.net/*
 // @match        http://oa.gmcc.net/*
 // @grant        none
-// @updateURL    https://github.com/ckanvin/kanvin-autorefresh/new/master/autorefresh.kan.js
-// @downloadURL  https://github.com/ckanvin/kanvin-autorefresh/new/master/autorefresh.kan.js
+// @updateURL    https://github.com/ckanvin/kanvin-autorefresh/blob/main/autorefresh.kan.js
+// @downloadURL  https://github.com/ckanvin/kanvin-autorefresh/blob/main/autorefresh.kan.js
 // @run-at       document-idle
 // ==/UserScript==
 
